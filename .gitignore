@@ -1,0 +1,22 @@
+# Environment
+.env
+
+# FAISS index and chunks (large files)
+faiss_index.bin
+chunks.pkl
+
+# Logs
+logs.jsonl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model cache
+.cache/
+sentence_transformers/
+
+# OS files
+.DS_Store
+Thumbs.db
