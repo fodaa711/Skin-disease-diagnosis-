@@ -1,0 +1,404 @@
+{
+  "version": "1.0",
+  "description": "DermaCam Medical Knowledge Base - 8 Skin Diseases + Normal Class",
+  "diseases": [
+    {
+      "id": "acne_rosacea",
+      "name_en": "Acne and Rosacea",
+      "name_ar": "حب الشباب والوردية",
+      "description_en": "Acne is a common skin condition where hair follicles become clogged with oil and dead skin cells, causing pimples, blackheads, and whiteheads. Rosacea is a chronic condition that causes redness and visible blood vessels mainly on the face, and may also produce acne-like bumps.",
+      "description_ar": "حب الشباب هو حالة جلدية شائعة تنتج عن انسداد بصيلات الشعر بالزيوت والخلايا الميتة، مما يسبب البثور والرؤوس السوداء والبيضاء. أما الوردية فهي حالة مزمنة تسبب احمرار الوجه وظهور الأوعية الدموية بوضوح، وقد تسبب بثورًا مشابهة لحب الشباب.",
+      "symptoms_en": [
+        "Pimples, blackheads, and whiteheads on face, chest, or back",
+        "Persistent facial redness (rosacea)",
+        "Visible blood vessels on the nose and cheeks",
+        "Oily skin",
+        "Painful or tender bumps under the skin",
+        "Eye irritation or redness (in some rosacea cases)"
+      ],
+      "symptoms_ar": [
+        "بثور ورؤوس سوداء وبيضاء على الوجه والصدر أو الظهر",
+        "احمرار دائم في الوجه (في حالة الوردية)",
+        "أوعية دموية ظاهرة على الأنف والخدين",
+        "دهنية الجلد",
+        "نتوءات مؤلمة تحت الجلد",
+        "تهيج أو احمرار العينين (في بعض حالات الوردية)"
+      ],
+      "causes_en": [
+        "Excess oil (sebum) production",
+        "Bacteria (Cutibacterium acnes)",
+        "Hormonal changes (puberty, menstruation, pregnancy)",
+        "Certain medications (corticosteroids, lithium)",
+        "High-glycemic diet",
+        "Sun exposure and temperature changes (rosacea trigger)",
+        "Stress and emotional factors"
+      ],
+      "causes_ar": [
+        "الإفراط في إنتاج الزيوت (الدهون الزهمية)",
+        "البكتيريا (Cutibacterium acnes)",
+        "التغيرات الهرمونية (البلوغ، الدورة الشهرية، الحمل)",
+        "بعض الأدوية (الكورتيكوستيرويدات، الليثيوم)",
+        "النظام الغذائي عالي السكريات",
+        "التعرض للشمس وتغيرات درجات الحرارة (محفز الوردية)",
+        "التوتر والعوامل النفسية"
+      ],
+      "severity_level": "low",
+      "severity_en": "Generally mild to moderate. Rarely dangerous, but can cause psychological distress and scarring if untreated. Rosacea is chronic and may worsen over time without management.",
+      "severity_ar": "خفيف إلى متوسط في الغالب. نادرًا ما يكون خطيرًا، لكنه قد يسبب ضائقة نفسية وندوبًا إذا تُرك دون علاج. الوردية حالة مزمنة قد تتفاقم بمرور الوقت دون علاج.",
+      "when_to_see_doctor_en": "See a dermatologist if acne is severe, cystic, or leaves scars. For rosacea, seek help if redness spreads, vision is affected, or the condition significantly impacts your daily life.",
+      "when_to_see_doctor_ar": "راجع طبيب الأمراض الجلدية إذا كان حب الشباب شديدًا أو كيسيًا أو يترك ندوبًا. بالنسبة للوردية، اطلب المساعدة إذا انتشر الاحمرار أو تأثرت الرؤية أو أثرت الحالة بشكل كبير على حياتك اليومية.",
+      "disclaimer_en": "This information is for educational purposes only and does not replace professional medical diagnosis or treatment. Please consult a licensed dermatologist for proper evaluation.",
+      "disclaimer_ar": "هذه المعلومات لأغراض تعليمية فقط ولا تحل محل التشخيص الطبي المتخصص أو العلاج. يرجى استشارة طبيب أمراض جلدية مرخص للتقييم السليم."
+    },
+    {
+      "id": "actinic_keratosis",
+      "name_en": "Actinic Keratosis",
+      "name_ar": "التقران الشعاعي (الحُمَّاق الضوئي)",
+      "description_en": "Actinic keratosis is a rough, scaly patch on the skin caused by years of sun exposure. It is considered a pre-cancerous condition, meaning it can potentially develop into skin cancer (squamous cell carcinoma) if left untreated. It most commonly appears on sun-exposed areas like the face, scalp, hands, and arms.",
+      "description_ar": "التقران الشعاعي هو بقعة خشنة ومتقشرة على الجلد ناتجة عن سنوات من التعرض للشمس. تُعتبر هذه الحالة قبل سرطانية، مما يعني أنها قد تتطور إلى سرطان الجلد إذا تُركت دون علاج. تظهر في الغالب على المناطق المعرضة للشمس كالوجه وفروة الرأس واليدين والذراعين.",
+      "symptoms_en": [
+        "Rough, dry, scaly patch of skin (usually less than 1 inch in diameter)",
+        "Flat to slightly raised patch on the skin surface",
+        "Hard, wart-like surface",
+        "Color variations: pink, red, or brown",
+        "Itching, burning, or tenderness in the affected area",
+        "Bleeding or crusting"
+      ],
+      "symptoms_ar": [
+        "بقعة جلدية خشنة وجافة ومتقشرة (عادةً أقل من 2.5 سم في القطر)",
+        "بقعة مسطحة أو مرتفعة قليلاً على سطح الجلد",
+        "سطح صلب يشبه الثؤلول",
+        "تغيرات اللون: وردي أو أحمر أو بني",
+        "حكة أو حرقة أو ألم في المنطقة المصابة",
+        "نزيف أو قشور"
+      ],
+      "causes_en": [
+        "Cumulative, long-term exposure to ultraviolet (UV) radiation from the sun",
+        "Use of tanning beds",
+        "Fair skin, light hair, and light eyes (higher risk)",
+        "Age over 40",
+        "Weakened immune system",
+        "History of multiple sunburns"
+      ],
+      "causes_ar": [
+        "التعرض التراكمي طويل الأمد للأشعة فوق البنفسجية (UV) من الشمس",
+        "استخدام أجهزة التسمير الاصطناعي",
+        "البشرة الفاتحة والشعر الفاتح والعيون الفاتحة (خطر أعلى)",
+        "العمر فوق 40 سنة",
+        "ضعف جهاز المناعة",
+        "تاريخ من حروق الشمس المتعددة"
+      ],
+      "severity_level": "high",
+      "severity_en": "High concern. Actinic keratosis is a pre-cancerous lesion. Without treatment, up to 10% of cases can progress to squamous cell carcinoma. Early detection and treatment are critical.",
+      "severity_ar": "مصدر قلق بالغ. التقران الشعاعي آفة قبل سرطانية. بدون علاج، يمكن أن يتطور ما يصل إلى 10٪ من الحالات إلى سرطان الخلايا الحرشفية. الكشف المبكر والعلاج أمران بالغا الأهمية.",
+      "when_to_see_doctor_en": "See a doctor as soon as possible. Any rough, scaly, or unusual skin patch that persists for more than a few weeks should be evaluated by a dermatologist immediately. Do not ignore this condition.",
+      "when_to_see_doctor_ar": "قم بمراجعة الطبيب في أقرب وقت ممكن. يجب تقييم أي بقعة جلدية خشنة أو متقشرة أو غير عادية تستمر لأكثر من بضعة أسابيع من قبل طبيب أمراض جلدية على الفور. لا تتجاهل هذه الحالة.",
+      "disclaimer_en": "This information is for educational purposes only and does not replace professional medical diagnosis or treatment. Please consult a licensed dermatologist for proper evaluation.",
+      "disclaimer_ar": "هذه المعلومات لأغراض تعليمية فقط ولا تحل محل التشخيص الطبي المتخصص أو العلاج. يرجى استشارة طبيب أمراض جلدية مرخص للتقييم السليم."
+    },
+    {
+      "id": "chickenpox",
+      "name_en": "Chickenpox",
+      "name_ar": "جدري الماء",
+      "description_en": "Chickenpox (varicella) is a highly contagious viral infection caused by the varicella-zoster virus. It is characterized by an itchy rash that develops into fluid-filled blisters, then crusts over. Although it primarily affects children, it can also occur in adults and may be more severe in that case.",
+      "description_ar": "جدري الماء (الحماق) هو عدوى فيروسية شديدة العدوى تسببها فيروس الحماق النطاقي. يتميز بطفح جلدي مثير للحكة يتطور إلى بثور مملوءة بالسائل، ثم تتقشر. على الرغم من أنه يصيب الأطفال بشكل أساسي، إلا أنه يمكن أن يصيب البالغين أيضًا وقد يكون أشد حدة.",
+      "symptoms_en": [
+        "Itchy, red spots that progress to fluid-filled blisters",
+        "Blisters that break open and crust over",
+        "Rash appearing first on chest, back, and face, then spreading",
+        "Fever",
+        "Fatigue and general feeling of being unwell",
+        "Loss of appetite",
+        "Headache"
+      ],
+      "symptoms_ar": [
+        "بقع حمراء مثيرة للحكة تتطور إلى بثور مملوءة بالسائل",
+        "بثور تنفتح وتتقشر",
+        "طفح جلدي يظهر أولاً على الصدر والظهر والوجه ثم ينتشر",
+        "حمى",
+        "تعب وشعور عام بالتوعك",
+        "فقدان الشهية",
+        "صداع"
+      ],
+      "causes_en": [
+        "Varicella-zoster virus (VZV)",
+        "Direct contact with an infected person's rash",
+        "Airborne transmission through coughing or sneezing",
+        "Not being vaccinated against chickenpox",
+        "Weakened immune system increases severity"
+      ],
+      "causes_ar": [
+        "فيروس الحماق النطاقي (VZV)",
+        "الاتصال المباشر بطفح جلدي شخص مصاب",
+        "الانتقال عبر الهواء من خلال السعال أو العطس",
+        "عدم التطعيم ضد جدري الماء",
+        "ضعف جهاز المناعة يزيد من حدة المرض"
+      ],
+      "severity_level": "medium",
+      "severity_en": "Moderate. Usually mild in healthy children but can be serious in adults, pregnant women, newborns, and immunocompromised individuals. Complications include bacterial skin infections and pneumonia.",
+      "severity_ar": "متوسط. عادةً ما يكون خفيفًا عند الأطفال الأصحاء ولكنه قد يكون خطيرًا عند البالغين والحوامل وحديثي الولادة والأشخاص ذوي المناعة الضعيفة. المضاعفات تشمل التهابات الجلد البكتيرية والالتهاب الرئوي.",
+      "when_to_see_doctor_en": "See a doctor if: the rash spreads to eyes, fever is very high (above 39°C), skin around blisters is red or warm (signs of infection), the person is an adult, pregnant, or has a weakened immune system.",
+      "when_to_see_doctor_ar": "راجع الطبيب إذا: انتشر الطفح إلى العينين، أو كانت الحمى مرتفعة جدًا (فوق 39 درجة مئوية)، أو كانت البشرة حول البثور حمراء أو دافئة (علامات العدوى)، أو كان المصاب بالغًا أو حاملاً أو يعاني من ضعف في جهاز المناعة.",
+      "disclaimer_en": "This information is for educational purposes only and does not replace professional medical diagnosis or treatment. Please consult a licensed doctor for proper evaluation.",
+      "disclaimer_ar": "هذه المعلومات لأغراض تعليمية فقط ولا تحل محل التشخيص الطبي المتخصص أو العلاج. يرجى استشارة طبيب مرخص للتقييم السليم."
+    },
+    {
+      "id": "eczema",
+      "name_en": "Eczema (Atopic Dermatitis)",
+      "name_ar": "الأكزيما (التهاب الجلد التأتبي)",
+      "description_en": "Eczema, or atopic dermatitis, is a chronic inflammatory skin condition that causes the skin to become itchy, dry, and inflamed. It is not contagious and often occurs in flares, meaning symptoms come and go. It is very common in children but can affect people of all ages. It is often associated with asthma and hay fever.",
+      "description_ar": "الأكزيما، أو التهاب الجلد التأتبي، هي حالة جلدية التهابية مزمنة تجعل الجلد يصبح مثيرًا للحكة وجافًا ومتهيجًا. وهي ليست معدية وتحدث في الغالب على شكل نوبات، مما يعني أن الأعراض تأتي وتذهب. وهي شائعة جدًا عند الأطفال لكنها يمكن أن تصيب الأشخاص في جميع الأعمار. وغالبًا ما ترتبط بالربو وحمى القش.",
+      "symptoms_en": [
+        "Dry, sensitive skin",
+        "Intense itching, especially at night",
+        "Red to brownish-gray patches",
+        "Small, raised bumps that may weep fluid when scratched",
+        "Thickened, cracked, or scaly skin",
+        "Raw, swollen skin from scratching",
+        "Rash most common on hands, feet, ankles, wrists, neck, and inner elbows/knees"
+      ],
+      "symptoms_ar": [
+        "جلد جاف وحساس",
+        "حكة شديدة خاصة في الليل",
+        "بقع حمراء إلى رمادية بنية",
+        "نتوءات صغيرة مرتفعة قد تفرز سائلاً عند الحك",
+        "جلد سميك أو متشقق أو متقشر",
+        "جلد خام ومنتفخ من الحك",
+        "طفح جلدي شائع على اليدين والقدمين والكاحلين والمعصمين والرقبة وداخل المرفقين والركبتين"
+      ],
+      "causes_en": [
+        "Genetic factors (family history of eczema, asthma, or hay fever)",
+        "Overactive immune system response",
+        "Skin barrier dysfunction (allowing moisture to escape and irritants to enter)",
+        "Triggers: soaps, detergents, certain fabrics (wool), sweat, stress",
+        "Environmental allergens: pollen, dust mites, pet hair",
+        "Food allergens in some cases (especially in children)"
+      ],
+      "causes_ar": [
+        "العوامل الوراثية (تاريخ عائلي من الأكزيما أو الربو أو حمى القش)",
+        "استجابة مفرطة من جهاز المناعة",
+        "خلل في حاجز الجلد (مما يسمح بفقدان الرطوبة ودخول المهيجات)",
+        "المحفزات: الصابون والمنظفات وبعض الأقمشة (الصوف) والعرق والتوتر",
+        "مسببات الحساسية البيئية: حبوب اللقاح وعث الغبار وشعر الحيوانات الأليفة",
+        "مسببات الحساسية الغذائية في بعض الحالات (خاصة عند الأطفال)"
+      ],
+      "severity_level": "medium",
+      "severity_en": "Moderate. Eczema is a chronic condition that significantly affects quality of life due to persistent itching and discomfort. It is not life-threatening but requires ongoing management.",
+      "severity_ar": "متوسط. الأكزيما حالة مزمنة تؤثر بشكل كبير على جودة الحياة بسبب الحكة المستمرة والانزعاج. وهي ليست مهددة للحياة لكنها تتطلب إدارة مستمرة.",
+      "when_to_see_doctor_en": "See a doctor if itching is severe enough to disrupt sleep, the rash is infected (yellow crusting, oozing, increased pain), symptoms are not controlled by over-the-counter moisturizers, or if the rash covers large parts of the body.",
+      "when_to_see_doctor_ar": "راجع الطبيب إذا كانت الحكة شديدة بما يكفي لتعطيل النوم، أو كان الطفح الجلدي مصابًا (قشور صفراء، إفرازات، ألم متزايد)، أو لم تُسيطر على الأعراض بالمرطبات المتاحة دون وصفة طبية، أو إذا غطى الطفح مساحات كبيرة من الجسم.",
+      "disclaimer_en": "This information is for educational purposes only and does not replace professional medical diagnosis or treatment. Please consult a licensed dermatologist for proper evaluation.",
+      "disclaimer_ar": "هذه المعلومات لأغراض تعليمية فقط ولا تحل محل التشخيص الطبي المتخصص أو العلاج. يرجى استشارة طبيب أمراض جلدية مرخص للتقييم السليم."
+    },
+    {
+      "id": "monkeypox",
+      "name_en": "Monkeypox",
+      "name_ar": "جدري القردة",
+      "description_en": "Monkeypox (mpox) is a viral disease caused by the monkeypox virus, a member of the Orthopoxvirus genus. It causes a rash that can look like blisters or pimples and may be accompanied by flu-like symptoms. It spreads through close physical contact with an infected person, animal, or contaminated material.",
+      "description_ar": "جدري القردة (mpox) هو مرض فيروسي تسببه فيروس جدري القردة، وهو عضو في جنس Orthopoxvirus. يسبب طفحًا جلديًا يمكن أن يشبه البثور أو حب الشباب وقد يترافق مع أعراض تشبه الإنفلونزا. ينتشر عن طريق الاتصال الجسدي المباشر مع شخص أو حيوان مصاب أو مواد ملوثة.",
+      "symptoms_en": [
+        "Rash that progresses from flat spots to raised bumps to blisters to scabs",
+        "Fever and chills",
+        "Swollen lymph nodes",
+        "Exhaustion and muscle aches",
+        "Headache",
+        "Sore throat, congestion, or cough",
+        "Rash may appear on face, hands, feet, chest, genitals, or anus"
+      ],
+      "symptoms_ar": [
+        "طفح جلدي يتطور من بقع مسطحة إلى نتوءات مرتفعة إلى بثور إلى قشور",
+        "حمى وقشعريرة",
+        "تورم الغدد الليمفاوية",
+        "إرهاق وآلام عضلية",
+        "صداع",
+        "التهاب الحلق أو احتقان أو سعال",
+        "قد يظهر الطفح على الوجه واليدين والقدمين والصدر والأعضاء التناسلية أو الشرج"
+      ],
+      "causes_en": [
+        "Monkeypox virus (an Orthopoxvirus)",
+        "Close skin-to-skin contact with infected person's rash or sores",
+        "Contact with contaminated objects (bedding, clothing, towels)",
+        "Respiratory secretions during prolonged face-to-face contact",
+        "Contact with infected animals"
+      ],
+      "causes_ar": [
+        "فيروس جدري القردة (Orthopoxvirus)",
+        "الاتصال المباشر بين الجلد والطفح أو القرح لشخص مصاب",
+        "الاتصال بأشياء ملوثة (فراش، ملابس، مناشف)",
+        "إفرازات الجهاز التنفسي أثناء الاتصال وجهاً لوجه لفترة طويلة",
+        "الاتصال بالحيوانات المصابة"
+      ],
+      "severity_level": "high",
+      "severity_en": "High concern. Monkeypox can be serious, especially in children, pregnant women, and immunocompromised individuals. It requires medical evaluation and isolation to prevent spread.",
+      "severity_ar": "مصدر قلق بالغ. يمكن أن يكون جدري القردة خطيرًا، خاصةً عند الأطفال والحوامل والأشخاص ذوي المناعة الضعيفة. يتطلب تقييمًا طبيًا وعزلاً لمنع الانتشار.",
+      "when_to_see_doctor_en": "See a doctor immediately if you notice a new unexplained rash — especially with flu-like symptoms or swollen lymph nodes — and you have had recent close contact with someone who tested positive for monkeypox, or traveled to an affected region.",
+      "when_to_see_doctor_ar": "راجع الطبيب فورًا إذا لاحظت طفحًا جديدًا غير مبرر - خاصةً مع أعراض تشبه الإنفلونزا أو تورم الغدد الليمفاوية - وكان لديك اتصال وثيق مؤخرًا مع شخص ثبتت إصابته بجدري القردة، أو سافرت إلى منطقة متأثرة.",
+      "disclaimer_en": "This information is for educational purposes only and does not replace professional medical diagnosis or treatment. Monkeypox is a notifiable disease — please consult a doctor immediately if suspected.",
+      "disclaimer_ar": "هذه المعلومات لأغراض تعليمية فقط ولا تحل محل التشخيص الطبي المتخصص أو العلاج. جدري القردة مرض يجب الإبلاغ عنه - يرجى استشارة الطبيب فورًا عند الاشتباه به."
+    },
+    {
+      "id": "nail_fungus",
+      "name_en": "Nail Fungus (Onychomycosis)",
+      "name_ar": "فطريات الأظافر (داء الظفر الفطري)",
+      "description_en": "Nail fungus (onychomycosis) is a common infection of the nails caused by various types of fungi. It can affect fingernails but is more common in toenails. The infection causes the nail to become discolored, thickened, and brittle. It is not dangerous but can be persistent and difficult to treat.",
+      "description_ar": "فطريات الأظافر (داء الظفر الفطري) هي عدوى شائعة في الأظافر تسببها أنواع مختلفة من الفطريات. يمكن أن تؤثر على أظافر الأصابع لكنها أكثر شيوعًا في أظافر القدم. تتسبب العدوى في تغير لون الظفر وسماكته وهشاشته. وهي ليست خطيرة لكنها قد تكون مستمرة وصعبة العلاج.",
+      "symptoms_en": [
+        "Thickened nails",
+        "Whitish, yellowish, or brownish discoloration",
+        "Brittle, crumbly, or ragged nail edges",
+        "Distorted nail shape",
+        "Slightly foul smell",
+        "Nail separating from the nail bed",
+        "Mild pain or discomfort in affected nails"
+      ],
+      "symptoms_ar": [
+        "سماكة الأظافر",
+        "تغير اللون إلى أبيض أو أصفر أو بني",
+        "حواف الظفر هشة أو متفتتة أو خشنة",
+        "شكل الظفر مشوه",
+        "رائحة كريهة خفيفة",
+        "انفصال الظفر عن قاعدته",
+        "ألم خفيف أو انزعاج في الأظافر المصابة"
+      ],
+      "causes_en": [
+        "Dermatophyte fungi (most common cause)",
+        "Yeast (Candida)",
+        "Mold fungi",
+        "Walking barefoot in damp public places (pools, locker rooms)",
+        "Minor skin or nail injury",
+        "Reduced blood circulation (e.g. diabetes)",
+        "Weakened immune system",
+        "Age — fungal infections are more common in older adults"
+      ],
+      "causes_ar": [
+        "فطريات الجلد (السبب الأكثر شيوعًا)",
+        "الخميرة (المبيضات)",
+        "فطريات العفن",
+        "المشي حافي القدمين في الأماكن العامة الرطبة (المسابح وغرف تغيير الملابس)",
+        "إصابة طفيفة في الجلد أو الظفر",
+        "ضعف الدورة الدموية (مثل مرض السكري)",
+        "ضعف جهاز المناعة",
+        "السن - عدوى الفطريات أكثر شيوعًا عند كبار السن"
+      ],
+      "severity_level": "low",
+      "severity_en": "Low to moderate. Nail fungus is not dangerous for healthy individuals but can be painful and may spread to other nails or skin. People with diabetes or weakened immune systems are at higher risk of complications.",
+      "severity_ar": "منخفض إلى متوسط. فطريات الأظافر ليست خطيرة للأفراد الأصحاء لكنها قد تكون مؤلمة وقد تنتشر إلى أظافر أو جلد آخر. الأشخاص المصابون بالسكري أو ضعف المناعة أكثر عرضة للمضاعفات.",
+      "when_to_see_doctor_en": "See a doctor if the nail infection causes pain, spreads to other nails or skin, or if you have diabetes or a weakened immune system. Treatment usually requires prescription antifungal medication.",
+      "when_to_see_doctor_ar": "راجع الطبيب إذا تسببت عدوى الظفر في ألم، أو انتشرت إلى أظافر أو جلد آخر، أو إذا كنت مصابًا بالسكري أو ضعف في جهاز المناعة. يتطلب العلاج عادةً أدوية مضادة للفطريات تحتاج وصفة طبية.",
+      "disclaimer_en": "This information is for educational purposes only and does not replace professional medical diagnosis or treatment. Please consult a licensed dermatologist for proper evaluation.",
+      "disclaimer_ar": "هذه المعلومات لأغراض تعليمية فقط ولا تحل محل التشخيص الطبي المتخصص أو العلاج. يرجى استشارة طبيب أمراض جلدية مرخص للتقييم السليم."
+    },
+    {
+      "id": "skin_cancer",
+      "name_en": "Skin Cancer",
+      "name_ar": "سرطان الجلد",
+      "description_en": "Skin cancer is the abnormal growth of skin cells, most often developing on skin exposed to sunlight. The three major types are basal cell carcinoma (most common and least dangerous), squamous cell carcinoma, and melanoma (the most dangerous). Early detection greatly improves treatment outcomes.",
+      "description_ar": "سرطان الجلد هو النمو غير الطبيعي لخلايا الجلد، ويتطور في أغلب الأحيان على الجلد المعرض لأشعة الشمس. الأنواع الثلاثة الرئيسية هي سرطان الخلايا القاعدية (الأكثر شيوعًا والأقل خطورة)، وسرطان الخلايا الحرشفية، والميلانوما (الأكثر خطورة). الكشف المبكر يحسن نتائج العلاج بشكل كبير.",
+      "symptoms_en": [
+        "A new mole or a mole that changes in size, shape, or color (ABCDE rule)",
+        "A pearly or waxy bump on the skin",
+        "A flat, flesh-colored or brown scar-like lesion",
+        "A bleeding or scabbing sore that does not heal",
+        "A large brownish spot with darker speckles",
+        "Dark lesions on palms, soles, fingertips, or toes",
+        "Unusual skin growth that itches or bleeds"
+      ],
+      "symptoms_ar": [
+        "شامة جديدة أو شامة تتغير في الحجم أو الشكل أو اللون (قاعدة ABCDE)",
+        "نتوء لؤلؤي أو شمعي على الجلد",
+        "آفة مسطحة لون الجلد أو بنية تشبه الندبة",
+        "قرحة نازفة أو متقشرة لا تلتئم",
+        "بقعة بنية كبيرة مع نقاط أغمق",
+        "آفات داكنة على راحة اليد أو القدم أو الأصابع",
+        "نمو جلدي غير عادي يسبب حكة أو نزيفًا"
+      ],
+      "causes_en": [
+        "Ultraviolet (UV) radiation from sun or tanning beds (primary cause)",
+        "Fair skin, light hair, and freckles",
+        "History of sunburns, especially in childhood",
+        "Family history of skin cancer",
+        "Weakened immune system",
+        "Exposure to radiation or certain chemicals (arsenic)",
+        "Having many moles or unusual moles"
+      ],
+      "causes_ar": [
+        "الأشعة فوق البنفسجية (UV) من الشمس أو أجهزة التسمير (السبب الرئيسي)",
+        "البشرة الفاتحة والشعر الفاتح والنمش",
+        "تاريخ من حروق الشمس خاصةً في مرحلة الطفولة",
+        "تاريخ عائلي من سرطان الجلد",
+        "ضعف جهاز المناعة",
+        "التعرض للإشعاع أو بعض المواد الكيميائية (الزرنيخ)",
+        "وجود شامات كثيرة أو شامات غير عادية"
+      ],
+      "severity_level": "high",
+      "severity_en": "High — potentially life-threatening. Melanoma especially can spread to other organs if not treated early. Basal cell carcinoma is rarely fatal but can cause serious local damage. Immediate professional evaluation is essential.",
+      "severity_ar": "مرتفع - قد يهدد الحياة. يمكن للميلانوما بشكل خاص أن تنتشر إلى أعضاء أخرى إذا لم يُعالج مبكرًا. سرطان الخلايا القاعدية نادرًا ما يكون مميتًا لكنه يمكن أن يسبب ضررًا محليًا خطيرًا. التقييم المهني الفوري ضروري.",
+      "when_to_see_doctor_en": "See a doctor IMMEDIATELY. Any suspicious skin lesion — especially one that changes, bleeds, or doesn't heal — must be evaluated by a dermatologist as soon as possible. Early treatment is critical for survival and better outcomes.",
+      "when_to_see_doctor_ar": "راجع الطبيب فورًا. يجب تقييم أي آفة جلدية مشبوهة - خاصةً التي تتغير أو تنزف أو لا تلتئم - من قِبل طبيب أمراض جلدية في أقرب وقت ممكن. العلاج المبكر ضروري للبقاء ونتائج أفضل.",
+      "disclaimer_en": "This information is for educational purposes only and does not replace professional medical diagnosis or treatment. If you suspect skin cancer, please consult a licensed dermatologist immediately.",
+      "disclaimer_ar": "هذه المعلومات لأغراض تعليمية فقط ولا تحل محل التشخيص الطبي المتخصص أو العلاج. إذا كنت تشتبه في الإصابة بسرطان الجلد، يرجى استشارة طبيب أمراض جلدية مرخص فورًا."
+    },
+    {
+      "id": "vitiligo",
+      "name_en": "Vitiligo",
+      "name_ar": "البَهَق",
+      "description_en": "Vitiligo is a long-term skin condition characterized by patches of skin losing their pigment (color), resulting in white or light-colored areas on the body. It occurs when melanocytes (the cells that produce skin pigment) are destroyed by the immune system. It is not contagious or life-threatening, but it can have significant psychological impact.",
+      "description_ar": "البهق هو حالة جلدية طويلة الأمد تتميز ببقع من الجلد تفقد صبغتها (لونها)، مما يؤدي إلى مناطق بيضاء أو فاتحة اللون على الجسم. يحدث عندما يدمر جهاز المناعة خلايا الميلانين (الخلايا المنتجة لصبغة الجلد). وهو ليس معديًا ولا يهدد الحياة، لكنه قد يكون له تأثير نفسي كبير.",
+      "symptoms_en": [
+        "Patchy loss of skin color, usually starting on hands, face, or genitals",
+        "Premature whitening or graying of hair (scalp, eyebrows, eyelashes)",
+        "Loss of color in mucous membranes (inside mouth or nose)",
+        "Loss of color or change in the inner layer of the eye (retina)",
+        "Patches may spread over time",
+        "Symmetrical patches on both sides of the body in some cases"
+      ],
+      "symptoms_ar": [
+        "فقدان لون الجلد على شكل بقع، يبدأ عادةً على اليدين والوجه أو الأعضاء التناسلية",
+        "ابيضاض أو اشتياب مبكر في الشعر (فروة الرأس والحواجب والرموش)",
+        "فقدان اللون في الأغشية المخاطية (داخل الفم أو الأنف)",
+        "فقدان اللون أو تغيير الطبقة الداخلية للعين (الشبكية)",
+        "قد تنتشر البقع بمرور الوقت",
+        "بقع متماثلة على كلا جانبي الجسم في بعض الحالات"
+      ],
+      "causes_en": [
+        "Autoimmune disorder (immune system attacks melanocytes)",
+        "Genetic factors (family history of vitiligo)",
+        "Trigger events: sunburn, emotional stress, or skin injury",
+        "Associated conditions: thyroid disease, type 1 diabetes, rheumatoid arthritis",
+        "Exposure to certain chemicals in some cases"
+      ],
+      "causes_ar": [
+        "اضطراب المناعة الذاتية (جهاز المناعة يهاجم خلايا الميلانين)",
+        "العوامل الوراثية (تاريخ عائلي من البهق)",
+        "أحداث محفزة: حروق الشمس أو الإجهاد العاطفي أو إصابة الجلد",
+        "الأمراض المصاحبة: أمراض الغدة الدرقية وداء السكري النوع الأول والتهاب المفاصل الروماتويدي",
+        "التعرض لبعض المواد الكيميائية في بعض الحالات"
+      ],
+      "severity_level": "low",
+      "severity_en": "Low physical risk. Vitiligo is not dangerous or contagious. However, it can have significant psychological and emotional impact. Affected areas are more sensitive to sunburn. There is no cure, but treatments can help restore color.",
+      "severity_ar": "خطر جسدي منخفض. البهق ليس خطيرًا أو معديًا. ومع ذلك، يمكن أن يكون له تأثير نفسي وعاطفي كبير. المناطق المصابة أكثر حساسية لحروق الشمس. لا يوجد علاج شافٍ، لكن العلاجات يمكن أن تساعد في استعادة اللون.",
+      "when_to_see_doctor_en": "See a dermatologist if you notice patches of skin losing color. While not medically urgent, a doctor can confirm the diagnosis and discuss treatment options to slow progression or restore pigment.",
+      "when_to_see_doctor_ar": "راجع طبيب أمراض جلدية إذا لاحظت بقعًا من الجلد تفقد لونها. في حين أن الأمر ليس عاجلاً طبياً، يمكن للطبيب تأكيد التشخيص ومناقشة خيارات العلاج لإبطاء التطور أو استعادة الصبغة.",
+      "disclaimer_en": "This information is for educational purposes only and does not replace professional medical diagnosis or treatment. Please consult a licensed dermatologist for proper evaluation.",
+      "disclaimer_ar": "هذه المعلومات لأغراض تعليمية فقط ولا تحل محل التشخيص الطبي المتخصص أو العلاج. يرجى استشارة طبيب أمراض جلدية مرخص للتقييم السليم."
+    },
+    {
+      "id": "normal",
+      "name_en": "Normal Skin",
+      "name_ar": "جلد طبيعي",
+      "description_en": "No skin disease was detected in the analyzed image. The skin appears normal based on the AI model's analysis.",
+      "description_ar": "لم يتم اكتشاف أي مرض جلدي في الصورة المحللة. يبدو الجلد طبيعيًا بناءً على تحليل نموذج الذكاء الاصطناعي.",
+      "symptoms_en": [],
+      "symptoms_ar": [],
+      "causes_en": [],
+      "causes_ar": [],
+      "severity_level": "none",
+      "severity_en": "No concern detected. The skin appears healthy.",
+      "severity_ar": "لا يوجد قلق محدد. الجلد يبدو بصحة جيدة.",
+      "when_to_see_doctor_en": "Continue regular skin self-examinations. If you notice any changes in your skin over time, consult a dermatologist.",
+      "when_to_see_doctor_ar": "استمر في إجراء فحوصات ذاتية منتظمة للجلد. إذا لاحظت أي تغيرات في جلدك بمرور الوقت، استشر طبيب أمراض جلدية.",
+      "disclaimer_en": "This AI result does not constitute a medical diagnosis. If you have any concerns about your skin, please consult a licensed dermatologist.",
+      "disclaimer_ar": "هذه النتيجة من الذكاء الاصطناعي لا تشكل تشخيصًا طبيًا. إذا كان لديك أي مخاوف بشأن جلدك، يرجى استشارة طبيب أمراض جلدية مرخص."
+    }
+  ]
+}
