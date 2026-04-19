@@ -1,22 +1,77 @@
-# Environment
+# ======================
+# ENVIRONMENT & SECRETS
+# ======================
 .env
+.envrc
 
-# FAISS index and chunks (large files)
+# ======================
+# ML / PROJECT FILES (IMPORTANT)
+# ======================
 faiss_index.bin
 chunks.pkl
-
-# Logs
 logs.jsonl
 
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
-
-# Model cache
+# Model & cache
 .cache/
 sentence_transformers/
 
-# OS files
+# ======================
+# PYTHON
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ======================
+# JUPYTER
+# ======================
+.ipynb_checkpoints/
+
+# ======================
+# BUILD / DIST
+# ======================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ======================
+# TEST / COVERAGE
+# ======================
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.pytest_cache/
+
+# ======================
+# DATABASES (optional)
+# ======================
+db.sqlite3
+
+# ======================
+# OS FILES
+# ======================
 .DS_Store
 Thumbs.db
+
+# ======================
+# EDITORS
+# ======================
+.vscode/
+.idea/
+
+# ======================
+# MISC
+# ======================
+*.log
+pip-log.txt
